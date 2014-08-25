@@ -309,6 +309,7 @@
   "http://www.myrecipes.com/how-to/video/how-to-make-loaded-baked-potato-dip-00420000028421/"
   "http://www.myrecipes.com/how-to/video/how-to-make-broccoli-grape-pasta-salad-00420000022107/"
   "http://www.myrecipes.com/how-to/video/how-to-make-cinnamon-apple-cake-00420000026329/"
+  "http://www.myrecipes.com/how-to/video/how-to-make-captain-america-cupcake-toppers-00420000028595/"
   "http://www.myrecipes.com/how-to/video/how-to-make-classic-baked-macaroni-cheese-00420000026158/"
   "http://www.myrecipes.com/how-to/cooking-questions/how-to-blanch-00420000029218/"
   "http://www.myrecipes.com/how-to/video/how-to-make-skillet-cornbread-00420000029691/"
@@ -321,6 +322,7 @@
   "http://www.myrecipes.com/how-to/video/how-to-make-cheesecake-factory-original-cheesecake-00420000025818/"
   "http://www.myrecipes.com/how-to/video/how-to-cook-chicken-enchiladas-00420000028416/"
   "http://www.myrecipes.com/how-to/video/how-to-make-tuscan-pasta-tomato-basil-cream-00420000027674/"
+  "http://www.myrecipes.com/how-to/video/how-to-make-superman-cupcake-toppers-00420000029650/"
   "http://www.myrecipes.com/how-to/video/easiest-way-to-freeze-casseroles-00420000029188/"
   "http://www.myrecipes.com/how-to/video/how-to-brine-chicken-00420000028347/"
   "http://www.myrecipes.com/how-to/video/how-to-make-eggnog-pound-cake-00420000026032/"
@@ -337,11 +339,15 @@
   "http://www.myrecipes.com/how-to/video/debunking-heart-healthy-diet-myths-10000001874818/"
   "http://www.myrecipes.com/how-to/video/how-to-make-slow-cooker-pulled-pork-00420000025989/"
   "http://www.myrecipes.com/how-to/video/how-to-make-bbq-chicken-blue-cheese-pizza-00420000027664/"
+  "http://www.myrecipes.com/how-to/video/how-to-make-wonder-woman-cupcake-toppers-00420000029649/"
   "http://www.myrecipes.com/how-to/video/how-to-make-easy-peach-cobbler-00420000022272/"
+  "http://www.myrecipes.com/how-to/video/how-to-make-batman-cupcake-toppers-00420000028593/"
+  "http://www.myrecipes.com/how-to/video/how-to-make-the-flash-cupcake-toppers-00420000029572/"
   "http://www.myrecipes.com/how-to/video/how-to-make-three-cheese-pasta-bake-00420000024926/"
   "http://www.myrecipes.com/how-to/video/how-to-make-party-bean-dip-baked-tortilla-chips-00420000027646/"
   "http://www.myrecipes.com/how-to/video/how-to-make-salted-caramel-chocolate-pecan-pie-00420000026792/"
   "http://www.myrecipes.com/how-to/video/how-to-make-no-cook-tomato-sauce-00420000029186/"
+  "http://www.myrecipes.com/how-to/video/how-to-make-spiderman-cupcake-toppers-00420000029573/"
   "http://www.myrecipes.com/how-to/video/how-to-make-slow-cooker-chicken-thighs-00420000022284/")
  ("http://www.myrecipes.com/healthy-diet/calorie-counts/healthy-chili-recipes-10000001873037/"
   "http://www.myrecipes.com/healthy-diet/calorie-counts/healthy-shrimp-recipes-00420000005602/"
@@ -424,23 +430,6 @@
   "http://www.myrecipes.com/halloween-recipes/"
   "http://www.myrecipes.com/cinco-de-mayo-recipes/"
   "http://www.myrecipes.com/mardi-gras-recipes/")
- ("http://www.myrecipes.com/rss/"
-  "http://www.myrecipes.com/cocktail-recipes/"
-  "http://www.myrecipes.com/community"
-  "http://www.myrecipes.com/press/"
-  "http://www.myrecipes.com/calendars/"
-  "http://www.myrecipes.com/kids/play-with-your-food/"
-  "http://img4.myrecipes.com/favicon.ico"
-  "http://www.myrecipes.com/recipe-finder/sponsor-recipes/"
-  "http://www.myrecipes.com/casserole-recipes"
-  "http://www.myrecipes.com/advertising/"
-  "http://www.myrecipes.com/about-us/"
-  "http://www.myrecipes.com/kids/play-with-your-food/play-with-your-food-00420000002174/"
-  "http://www.myrecipes.com/menus/menu-finder/"
-  "http://www.myrecipes.com/contact-us/"
-  "http://www.myrecipes.com/frequently-asked-questions/"
-  "http://www.myrecipes.com/ingredient-chef/?pid=ingredient-search"
-  "http://img4.myrecipes.com/robots.txt")
  ("http://www.myrecipes.com/m/recipe/pasta-carbonara-10000001572914/"
   "http://www.myrecipes.com/m/recipe/chile-roasted-turkey-with-chorizo-corn-bread-stuffing-10000000650875/"
   "http://www.myrecipes.com/m/recipe/sour-cream-dinner-rolls-10000000519982/"
@@ -488,6 +477,20 @@
   "http://www.myrecipes.com/m/healthy-diet/calorie-counts/healthy-dip-recipes-under-100-calories-00420000001851/"
   "http://www.myrecipes.com/m/healthy-diet/super-foods/health-benefits-of-blueberries-10000001901081/"
   "http://www.myrecipes.com/m/healthy-diet/super-foods/health-benefits-of-eggplant-00420000005798/")
+ ("http://www.myrecipes.com/m/how-to/cooking-pork-roast-a-slow-cooker-10000001925766/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-skillet-cornbread-00420000029691/"
+  "http://www.myrecipes.com/m/how-to/making-lasagna-a-slow-cooker-10000001925761/"
+  "http://www.myrecipes.com/m/how-to/cooking-questions/how-to-blanch-00420000029218/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-strawberry-margarita-jell-o-shots-00420000029416/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-candied-yams-00420000025815/"
+  "http://www.myrecipes.com/m/how-to/video/easiest-way-to-freeze-casseroles-00420000029188/"
+  "http://www.myrecipes.com/m/how-to/video/easy-ways-to-freeze-soups-stews-00420000029189/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-slow-cooker-chicken-thighs-00420000022284/"
+  "http://www.myrecipes.com/m/how-to/making-candy-a-slow-cooker-10000001925767/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-easy-peach-cobbler-00420000022272/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-bbq-chicken-blue-cheese-pizza-00420000027664/"
+  "http://www.myrecipes.com/m/how-to/video/bacon-for-a-crowd-00420000029502/"
+  "http://www.myrecipes.com/m/how-to/video/how-to-make-wonder-woman-cupcake-toppers-00420000029649/")
  ("http://www.myrecipes.com/salad-recipes/"
   "http://www.myrecipes.com/sandwich-recipes/"
   "http://www.myrecipes.com/breakfast-and-brunch-recipes/"
@@ -530,19 +533,18 @@
   "http://www.myrecipes.com/summer-grilling/sides/summer-pasta-salads-10000001631891/"
   "http://www.myrecipes.com/summer-grilling/meats/steak-recipes-for-the-grill-10000001618081/"
   "http://www.myrecipes.com/summer-grilling/summer-drinks/flavored-iced-tea-recipes-10000001736767/")
- ("http://www.myrecipes.com/m/how-to/cooking-pork-roast-a-slow-cooker-10000001925766/"
-  "http://www.myrecipes.com/m/how-to/video/how-to-make-skillet-cornbread-00420000029691/"
-  "http://www.myrecipes.com/m/how-to/making-lasagna-a-slow-cooker-10000001925761/"
-  "http://www.myrecipes.com/m/how-to/cooking-questions/how-to-blanch-00420000029218/"
-  "http://www.myrecipes.com/m/how-to/video/how-to-make-strawberry-margarita-jell-o-shots-00420000029416/"
-  "http://www.myrecipes.com/m/how-to/video/how-to-make-candied-yams-00420000025815/"
-  "http://www.myrecipes.com/m/how-to/video/easiest-way-to-freeze-casseroles-00420000029188/"
-  "http://www.myrecipes.com/m/how-to/video/easy-ways-to-freeze-soups-stews-00420000029189/"
-  "http://www.myrecipes.com/m/how-to/video/how-to-make-slow-cooker-chicken-thighs-00420000022284/"
-  "http://www.myrecipes.com/m/how-to/making-candy-a-slow-cooker-10000001925767/"
-  "http://www.myrecipes.com/m/how-to/video/how-to-make-easy-peach-cobbler-00420000022272/"
-  "http://www.myrecipes.com/m/how-to/video/how-to-make-bbq-chicken-blue-cheese-pizza-00420000027664/"
-  "http://www.myrecipes.com/m/how-to/video/bacon-for-a-crowd-00420000029502/")
+ ("http://www.myrecipes.com/healthy-diet/calorie-counts/healthy-frozen-treats-recipes-00420000000164/"
+  "http://www.myrecipes.com/healthy-diet/diabetic-diets-10000001933252/"
+  "http://www.myrecipes.com/healthy-diet/gluten-free-casein-free-desserts-10000001725108/"
+  "http://www.myrecipes.com/healthy-diet/calorie-counts/20-ways-to-indulge-your-cravings-10000001677315/"
+  "http://www.myrecipes.com/healthy-diet/superfood-recipes-with-watermelon-00420000000515/"
+  "http://www.myrecipes.com/healthy-diet/low-fat-high-fiber-recipes-10000001717155/"
+  "http://www.myrecipes.com/healthy-diet/sources-of-omega-3-10000001964952/"
+  "http://www.myrecipes.com/healthy-diet/heart-healthy-meals-10000001711371/"
+  "http://www.myrecipes.com/healthy-diet/vegetarian-advisory-7-necessary-nutrients-10000001731018/"
+  "http://www.myrecipes.com/healthy-diet/super-foods/guide-to-superfoods-10000001914526/"
+  "http://www.myrecipes.com/healthy-diet/low-sugar-snack-recipes-10000001670924/"
+  "http://www.myrecipes.com/healthy-diet/heart-healthy-eating-10000001708308/")
  ("http://www.myrecipes.com/quick-and-easy/quick-and-simple-weeknight-meals-10000001940007/"
   "http://www.myrecipes.com/quick-and-easy/5-ingredients-or-less/5-ingredient-summer-desserts-00420000012619/"
   "http://www.myrecipes.com/quick-and-easy/no-cook-side-dishes-00420000000606/"
@@ -555,18 +557,6 @@
   "http://www.myrecipes.com/quick-and-easy/5-ingredients-or-less/simple-dinner-recipes-for-the-family-10000001823014/"
   "http://www.myrecipes.com/quick-and-easy/5-ingredients-or-less/5-ingredient-recipes-for-entertaining-00420000008622/"
   "http://www.myrecipes.com/quick-and-easy/15-minute-recipes/quick-fish-dinners-10000001712080/")
- ("http://www.myrecipes.com/r/profile/edit/"
-  "http://www.myrecipes.com/menu/new/"
-  "http://www.myrecipes.com/m/r/my_recipe_file/shopping_lists/"
-  "http://www.myrecipes.com/r/my_recipe_file/noted_recipes/"
-  "http://www.myrecipes.com/recipe/new/"
-  "http://www.myrecipes.com/r/my_recipe_file/saved_menus/"
-  "http://www.myrecipes.com/r/my_recipe_file/shopping_lists/"
-  "http://www.myrecipes.com/ebook/history/"
-  "http://www.myrecipes.com/r/my_recipe_file/saved_recipes/"
-  "http://www.myrecipes.com/r/my_recipe_file/rated_recipes/"
-  "http://www.myrecipes.com/ebook/new/"
-  "http://www.myrecipes.com/r/my_recipe_file/saved_recipes/personal_recipes/")
  ("http://www.myrecipes.com/holidays-and-occasions/wedding-and-shower-recipes/wedding-cake-alternatives-00420000013988/"
   "http://www.myrecipes.com/holidays-and-occasions/christmas-recipes/gourmet-hors-doeuvres-10000001832968/"
   "http://www.myrecipes.com/holidays/desserts/no-bake-holiday-desserts-10000001682697/"
@@ -579,17 +569,6 @@
   "http://www.myrecipes.com/holidays-and-occasions/tailgating-recipes/5-ingredient-tailgate-appetizers-00420000012848/"
   "http://www.myrecipes.com/holidays-and-occasions/wedding-and-shower-recipes/wedding-reception-ideas-00420000013980/"
   "http://www.myrecipes.com/holidays/desserts/editors-favorite-holiday-desserts-00420000015076/")
- ("http://www.myrecipes.com/healthy-diet/calorie-counts/healthy-frozen-treats-recipes-00420000000164/"
-  "http://www.myrecipes.com/healthy-diet/diabetic-diets-10000001933252/"
-  "http://www.myrecipes.com/healthy-diet/gluten-free-casein-free-desserts-10000001725108/"
-  "http://www.myrecipes.com/healthy-diet/calorie-counts/20-ways-to-indulge-your-cravings-10000001677315/"
-  "http://www.myrecipes.com/healthy-diet/superfood-recipes-with-watermelon-00420000000515/"
-  "http://www.myrecipes.com/healthy-diet/low-fat-high-fiber-recipes-10000001717155/"
-  "http://www.myrecipes.com/healthy-diet/heart-healthy-meals-10000001711371/"
-  "http://www.myrecipes.com/healthy-diet/vegetarian-advisory-7-necessary-nutrients-10000001731018/"
-  "http://www.myrecipes.com/healthy-diet/super-foods/guide-to-superfoods-10000001914526/"
-  "http://www.myrecipes.com/healthy-diet/low-sugar-snack-recipes-10000001670924/"
-  "http://www.myrecipes.com/healthy-diet/heart-healthy-eating-10000001708308/")
  ("http://www.myrecipes.com/menus/inexpensive-party-food-ideas-10000001890703/"
   "http://www.myrecipes.com/menus/easy-finger-food-recipes-10000001926557/"
   "http://www.myrecipes.com/menus/martie-knows-parties/tequila-bar-party-00420000001119/"
@@ -674,6 +653,16 @@
   "http://www.myrecipes.com/m/summer-grilling/sides/cooking-corn-on-the-grill-10000001812536/"
   "http://www.myrecipes.com/m/summer-grilling/gluten-free-grilling-00420000028329/"
   "http://www.myrecipes.com/m/summer-grilling/desserts/best-peach-desserts-00420000004465/")
+ ("http://www.myrecipes.com/course/appetizer-recipes/portable-appetizers-00420000001298/"
+  "http://www.myrecipes.com/course/dessert-recipes/best-chocolate-desserts-00420000003236/"
+  "http://www.myrecipes.com/course/breakfast-and-brunch-recipes/best-breakfast-casseroles-00420000001303/"
+  "http://www.myrecipes.com/course/appetizer-recipes/easy-appetizers-from-gooseberry-patch-00420000020204/"
+  "http://www.myrecipes.com/course/dessert-recipes/blueberry-cobblers-pies-00420000011389/"
+  "http://www.myrecipes.com/course/salad-recipes/superfast-summer-salads-00420000028784/"
+  "http://www.myrecipes.com/course/casserole-recipes/gooseberry-patch-casserole-recipes-00420000011288/"
+  "http://www.myrecipes.com/course/appetizer-recipes/5-ingredient-appetizers-00420000001301/"
+  "http://www.myrecipes.com/course/appetizer-recipes/last-minute-appetizers-00420000001299/"
+  "http://www.myrecipes.com/course/appetizer-recipes/cooking-light-appetizers-10000001932289/")
  ("http://www.myrecipes.com/menus/weeknight-meal-planner-00420000011371/"
   "http://www.myrecipes.com/menus/weeknight-meal-planner-00420000011342/"
   "http://www.myrecipes.com/menus/weeknight-meal-planner-00420000029625/"
@@ -692,15 +681,6 @@
   "http://www.myrecipes.com/low-calorie-recipes/"
   "http://www.myrecipes.com/diabetic-recipes/"
   "http://www.myrecipes.com/heart-healthy-recipes/")
- ("http://www.myrecipes.com/course/appetizer-recipes/portable-appetizers-00420000001298/"
-  "http://www.myrecipes.com/course/dessert-recipes/best-chocolate-desserts-00420000003236/"
-  "http://www.myrecipes.com/course/breakfast-and-brunch-recipes/best-breakfast-casseroles-00420000001303/"
-  "http://www.myrecipes.com/course/appetizer-recipes/easy-appetizers-from-gooseberry-patch-00420000020204/"
-  "http://www.myrecipes.com/course/dessert-recipes/blueberry-cobblers-pies-00420000011389/"
-  "http://www.myrecipes.com/course/salad-recipes/superfast-summer-salads-00420000028784/"
-  "http://www.myrecipes.com/course/appetizer-recipes/5-ingredient-appetizers-00420000001301/"
-  "http://www.myrecipes.com/course/appetizer-recipes/last-minute-appetizers-00420000001299/"
-  "http://www.myrecipes.com/course/appetizer-recipes/cooking-light-appetizers-10000001932289/")
  ("http://www.myrecipes.com/m/weight-loss-recipes/"
   "http://www.myrecipes.com/m/diabetic-recipes/"
   "http://www.myrecipes.com/m/low-carbohydrate-recipes/"
@@ -717,6 +697,14 @@
   "http://www.myrecipes.com/special-diet/diabetic-recipes/diabetic-holiday-sides-salads-00420000001201/"
   "http://www.myrecipes.com/special-diet/diabetic-recipes/low-sugar-party-foods-10000001855968/"
   "http://www.myrecipes.com/special-diet/vegetarian-recipes/easy-vegetarian-meals-00420000001297/")
+ ("http://www.myrecipes.com/kids/play-with-your-food/incredible-edible-nutty-putty-10000001916934/"
+  "http://www.myrecipes.com/kids/kids-mini-player-00420000010638/"
+  "http://www.myrecipes.com/kids/homemade-baby-food-tips-00420000003526/"
+  "http://www.myrecipes.com/static/generic/meal-machine/"
+  "http://www.myrecipes.com/kids/play-with-your-food/alphabet-chicken-soup-10000001915548/"
+  "http://www.myrecipes.com/kids/one-minute-lunchbox-ham-sandwich-00420000027105/"
+  "http://www.myrecipes.com/kids/one-minute-lunchbox-turkey-sandwich-00420000027103/"
+  "http://www.myrecipes.com/kids/one-minute-lunchbox-pbj-bagel-00420000027104/")
  ("http://www.myrecipes.com/m/labor-day-recipes/"
   "http://www.myrecipes.com/m/chinese-new-year-recipes/"
   "http://www.myrecipes.com/m/birthday-party-recipes/"
@@ -732,6 +720,13 @@
   "http://www.myrecipes.com/m/make-ahead-recipes/"
   "http://www.myrecipes.com/m/no-cook-recipes/"
   "http://www.myrecipes.com/m/comfort-food-recipes/")
+ ("http://www.myrecipes.com/kids/lunchbox-snacks-10000001915764/"
+  "http://www.myrecipes.com/kids/kid-approved-spinach-recipes-00420000000599/"
+  "http://www.myrecipes.com/kids/kid-approved/getting-kids-to-eat-vegetables-10000001988515/"
+  "http://www.myrecipes.com/kids/kids-lunch-box-ideas-00420000001911/"
+  "http://www.myrecipes.com/kids/kid-approved-broccoli-recipes-00420000000603/"
+  "http://www.myrecipes.com/kids/kid-approved/kid-friendly-slow-cooker-recipes-10000001960512/"
+  "http://www.myrecipes.com/kids/kid-approved/play-with-your-food-10000001913290/")
  ("http://www.myrecipes.com/cooking-method/slow-cooker-recipes/slow-cooker-drinks-10000001924170/"
   "http://www.myrecipes.com/cooking-method/slow-cooker-recipes/slow-cooker-soup-recipes-10000001921024/"
   "http://www.myrecipes.com/cooking-method/slow-cooker-recipes/slow-cooker-desserts-10000001924457/"
@@ -758,12 +753,6 @@
   "http://www.myrecipes.com/cheese-recipes/"
   "http://www.myrecipes.com/beef-recipes/"
   "http://www.myrecipes.com/chocolate-recipes/")
- ("http://www.myrecipes.com/kids/play-with-your-food/incredible-edible-nutty-putty-10000001916934/"
-  "http://www.myrecipes.com/kids/homemade-baby-food-tips-00420000003526/"
-  "http://www.myrecipes.com/static/generic/meal-machine/"
-  "http://www.myrecipes.com/kids/one-minute-lunchbox-ham-sandwich-00420000027105/"
-  "http://www.myrecipes.com/kids/one-minute-lunchbox-turkey-sandwich-00420000027103/"
-  "http://www.myrecipes.com/kids/one-minute-lunchbox-pbj-bagel-00420000027104/")
  ("http://www.myrecipes.com/magazines-and-cookbooks/cooking-light-recipes/recipe-collection-cooking-light-june-2014-00420000028693/?autosave=1"
   "http://www.myrecipes.com/magazines-and-cookbooks/all-you-recipes/recipe-collection-all-you-june-2014-00420000028692/"
   "http://www.myrecipes.com/magazines-and-cookbooks/all-you-recipes/recipe-collection-all-you-june-2014-00420000028692/?autosave=1"
@@ -782,11 +771,11 @@
   "http://www.myrecipes.com/m/chicken-recipes/"
   "http://www.myrecipes.com/m/beef-recipes/"
   "http://www.myrecipes.com/m/fish-recipes/")
- ("http://www.myrecipes.com/kids/play-with-your-food/themed-sweet-treats-for-kids-10000001956006/"
-  "http://www.myrecipes.com/kids/healthy-kids/homemade-popsicles-10000001891814/"
-  "http://www.myrecipes.com/kids/healthy-kids/low-calorie-family-meals-10000001985162/"
-  "http://www.myrecipes.com/kids/pack-lunch-with-healthy-punch-10000001661709/"
+ ("http://www.myrecipes.com/kids/kid-approved/sandwich-recipes-for-kids-10000001969472/"
+  "http://www.myrecipes.com/kids/kid-approved/kids-favorite-dinner-recipes-10000001913311/"
   "http://www.myrecipes.com/kids/healthy-kids/healthy-recipes-for-picky-eaters-10000001967177/"
+  "http://www.myrecipes.com/kids/kid-approved/quick-kid-friendly-meals-10000001955235/"
+  "http://www.myrecipes.com/kids/kid-approved/kid-friendly-breakfast-recipes-10000001913224/"
   "http://www.myrecipes.com/kids/healthy-kids/secrets-to-raising-vegetable-eaters-00420000004023/")
  ("http://www.myrecipes.com/holidays/videos/gluten-free-stuffing-10000001858458/"
   "http://www.myrecipes.com/holidays/videos/10-tips-a-gluten-free-holiday-10000001858475/"
@@ -800,11 +789,21 @@
   "http://www.myrecipes.com/special-diet/diabetic-recipes/how-to-control-diabetes-10000001681819/"
   "http://www.myrecipes.com/special-diet/vegetarian-recipes/vegan-meals-00420000001296/"
   "http://www.myrecipes.com/special-diet/diabetic-recipes/diabetes-friendly-breads-00420000001202/")
+ ("http://www.myrecipes.com/m/healthy-diet/super-foods/guide-to-superfoods-10000001914526/"
+  "http://www.myrecipes.com/m/healthy-diet/gluten-free-casein-free-desserts-10000001725108/"
+  "http://www.myrecipes.com/m/healthy-diet/sources-of-omega-3-10000001964952/"
+  "http://www.myrecipes.com/m/healthy-diet/calorie-counts/20-ways-to-indulge-your-cravings-10000001677315/"
+  "http://www.myrecipes.com/m/healthy-diet/superfood-recipes-with-watermelon-00420000000515/")
  ("http://www.myrecipes.com/m/american-recipes/"
   "http://www.myrecipes.com/m/asian-recipes/"
   "http://www.myrecipes.com/m/caribbean-recipes/"
   "http://www.myrecipes.com/m/cajun-and-creole-recipes/"
   "http://www.myrecipes.com/m/african-recipes/")
+ ("http://www.myrecipes.com/kids/play-with-your-food/themed-sweet-treats-for-kids-10000001956006/"
+  "http://www.myrecipes.com/kids/healthy-kids/homemade-popsicles-10000001891814/"
+  "http://www.myrecipes.com/kids/healthy-kids/low-calorie-family-meals-10000001985162/"
+  "http://www.myrecipes.com/kids/pack-lunch-with-healthy-punch-10000001661709/"
+  "http://www.myrecipes.com/kids/back-to-school-brain-food-00420000005885/")
  ("http://www.myrecipes.com/quick-and-easy/15-minute-recipes/15-minute-meals-10000001832080/"
   "http://www.myrecipes.com/quick-and-easy/5-ingredients-or-less/5-ingredient-main-dishes-00420000012228/"
   "http://www.myrecipes.com/quick-and-easy/15-minute-recipes/broiled-recipes-10000001843776/"
@@ -815,6 +814,11 @@
   "http://www.myrecipes.com/general/press-00420000000039/"
   "http://www.myrecipes.com/general/new-recipe-emails-00420000019209/"
   "http://www.myrecipes.com/general/ingredient-chef/ingredient-chef-00420000010081/?pid=ingredient-search")
+ ("http://www.myrecipes.com/m/kids/healthy-kids/homemade-popsicles-10000001891814/"
+  "http://www.myrecipes.com/m/kids/pack-lunch-with-healthy-punch-10000001661709/"
+  "http://www.myrecipes.com/m/kids/healthy-kids/secrets-to-raising-vegetable-eaters-00420000004023/"
+  "http://www.myrecipes.com/m/kids/kid-approved/sandwich-recipes-for-kids-10000001969472/"
+  "http://www.myrecipes.com/m/kids/back-to-school-brain-food-00420000005885/")
  ("http://www.myrecipes.com/m/healthy-diet/health-benefits-of-cinnamon-00420000026657/"
   "http://www.myrecipes.com/m/healthy-diet/new-gluten-free-label-laws-00420000022434/"
   "http://www.myrecipes.com/m/healthy-diet/health-benefits-of-coconut-water-00420000026823/"
@@ -838,10 +842,6 @@
   "http://www.myrecipes.com/how-to/making-lasagna-a-slow-cooker-10000001925761/"
   "http://www.myrecipes.com/how-to/baking-cake-a-slow-cooker-10000001925760/"
   "http://www.myrecipes.com/how-to/cooking-pork-roast-a-slow-cooker-10000001925766/")
- ("http://www.myrecipes.com/m/healthy-diet/super-foods/guide-to-superfoods-10000001914526/"
-  "http://www.myrecipes.com/m/healthy-diet/gluten-free-casein-free-desserts-10000001725108/"
-  "http://www.myrecipes.com/m/healthy-diet/calorie-counts/20-ways-to-indulge-your-cravings-10000001677315/"
-  "http://www.myrecipes.com/m/healthy-diet/superfood-recipes-with-watermelon-00420000000515/")
  ("http://www.myrecipes.com/health-magazine-recipes/"
   "http://www.myrecipes.com/real-simple-recipes/"
   "http://www.myrecipes.com/coastal-living-recipes/"
@@ -876,6 +876,9 @@
  ("http://www.myrecipes.com/healthy-diet/month-heart-healthy-recipes-00420000009758/"
   "http://www.myrecipes.com/healthy-diet/calorie-counts/month-of-100-calorie-snacks-10000001695507/"
   "http://www.myrecipes.com/healthy-diet/calorie-counts/100-calorie-snacks-00420000016823/")
+ ("http://www.myrecipes.com/m/kids/play-with-your-food/alphabet-chicken-soup-10000001915548/"
+  "http://www.myrecipes.com/m/kids/play-with-your-food/incredible-edible-nutty-putty-10000001916934/"
+  "http://www.myrecipes.com/m/kids/homemade-baby-food-tips-00420000003526/")
  ("http://www.myrecipes.com/m/course/appetizer-recipes/cooking-light-appetizers-10000001932289/"
   "http://www.myrecipes.com/m/course/salad-recipes/superfast-summer-salads-00420000028784/"
   "http://www.myrecipes.com/m/course/dessert-recipes/blueberry-cobblers-pies-00420000011389/")
@@ -890,16 +893,10 @@
   "http://www.myrecipes.com/m/holidays/videos/gluten-free-stuffing-10000001858458/")
  ("http://www.myrecipes.com/course/side-dish-recipes/100-summer-side-dishes-00420000011891/"
   "http://www.myrecipes.com/course/dessert-recipes/pumpkin-desserts-10000001841344/")
- ("http://www.myrecipes.com/m/kids/healthy-kids/homemade-popsicles-10000001891814/"
-  "http://www.myrecipes.com/m/kids/pack-lunch-with-healthy-punch-10000001661709/")
  ("http://www.myrecipes.com/t/kid-friendly/lunches-and-sandwiches/"
   "http://www.myrecipes.com/t/kid-friendly/snacks/")
  ("http://www.myrecipes.com/quick-and-easy/15-minute-recipes/"
   "http://www.myrecipes.com/quick-and-easy/")
- ("http://www.myrecipes.com/m/kids/kids-lunch-box-ideas-00420000001911/"
-  "http://www.myrecipes.com/m/kids/healthy-kids/secrets-to-raising-vegetable-eaters-00420000004023/")
- ("http://www.myrecipes.com/kids/lunchbox-snacks-10000001915764/"
-  "http://www.myrecipes.com/kids/kids-lunch-box-ideas-00420000001911/")
  ("http://www.myrecipes.com/m/menus/registering-for-wedding-kitchen-10000001817553/"
   "http://www.myrecipes.com/m/menus/back-to-school-pizza-party-menu-10000001828263/")
  ("http://www.myrecipes.com/community/"
@@ -908,8 +905,14 @@
   "http://www.myrecipes.com/t/christmas/dinner-and-menus/")
  ("http://www.myrecipes.com/healthy-diet/"
   "http://www.myrecipes.com/healthy-diet/calorie-counts/")
+ ("http://www.myrecipes.com/m/kids/kids-lunch-box-ideas-00420000001911/"
+  "http://www.myrecipes.com/m/kids/kid-approved/play-with-your-food-10000001913290/")
+ ("http://www.myrecipes.com/how-to/5-to-try/slow-cooker-ideas-10000001882046/"
+  "http://www.myrecipes.com/how-to/5-to-try/5-creamy-fruit-smoothie-recipes-00420000000135/")
  ("http://www.myrecipes.com/m/r/my_recipe_file/"
   "http://www.myrecipes.com/m/r/my_recipe_file/?trAu=1&returnUrl=http://www.myrecipes.com/m/r/my_recipe_file/shopping_lists")
+ ("http://www.myrecipes.com/m/kids/"
+  "http://www.myrecipes.com/m/kids/healthy-kids/")
  ("http://www.myrecipes.com/m/quick-and-easy/"
   "http://www.myrecipes.com/m/quick-and-easy/15-minute-recipes/")
  ("http://www.myrecipes.com/kids/"
@@ -918,8 +921,6 @@
   "http://www.myrecipes.com/blender-recipes/")
  ("http://www.myrecipes.com/m/cooking-method/slow-cooker-recipes/slow-cooker-soup-recipes-10000001921024/"
   "http://www.myrecipes.com/m/cooking-method/slow-cooker-recipes/summer-slow-cooker-recipes-00420000011460/")
- ("http://www.myrecipes.com/m/kids/play-with-your-food/incredible-edible-nutty-putty-10000001916934/"
-  "http://www.myrecipes.com/m/kids/homemade-baby-food-tips-00420000003526/")
  ("http://www.myrecipes.com/convenience/no-cook-recipes/no-cook-suppers-10000001821078/"
   "http://www.myrecipes.com/convenience/family-recipes/healthy-family-meals-10000001652837/")
  ("http://www.myrecipes.com/m/healthy-diet/calorie-counts/"
@@ -939,6 +940,7 @@
  ["http://www.myrecipes.com/m/holidays-and-occasions/"]
  ["http://www.myrecipes.com/m/summer-grilling/summer-of-bacon-00420000029531/"]
  ["http://www.myrecipes.com/cooking-method/slow-cooker-recipes/slow-cooker-vegetarian-recipes-00420000014770/"]
+ ["http://www.myrecipes.com/convenience/family-recipes/recipes-for-busy-moms-00420000004348/"]
  ["http://www.myrecipes.com/ingredients/chicken-recipes/"]
  ["http://www.myrecipes.com/m/world-cuisine/mexican-recipes/mexican-dinner-menus-00420000001305/"]
  ["http://www.myrecipes.com/r/my_recipe_file/"]
@@ -963,7 +965,6 @@
  ["http://www.myrecipes.com/summer-grilling/"]
  ["http://www.myrecipes.com/low-sodium-recipes/"]
  ["http://www.myrecipes.com/summer-grilling/videos/how-to-baste-chicken-on-grill-10000001779382/"]
- ["http://www.myrecipes.com/m/kids/"]
  ["http://www.myrecipes.com/course/"]
  ["http://www.myrecipes.com/ingredients/"]
  ["http://www.myrecipes.com/cooking-method/"]
@@ -972,7 +973,6 @@
  ["http://www.myrecipes.com/m/holidays-and-occasions/birthday-party-recipes/colorful-kids-birthday-party-00420000021794/"]
  ["http://www.myrecipes.com/m/ingredients/chicken-recipes/easy-greek-chicken-recipes-10000001990329/"]
  ["http://www.myrecipes.com/convenience/"]
- ["http://www.myrecipes.com/how-to/5-to-try/slow-cooker-ideas-10000001882046/"]
  ["http://www.myrecipes.com/quick-and-easy/easy-freezer-meals-10000001602670/"]
  ["http://www.myrecipes.com/recipe-finder/"]
  ["http://www.myrecipes.com/menus/menu-finder/menu-finder-00420000000247/"]
